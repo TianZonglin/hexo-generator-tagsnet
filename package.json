@@ -101,7 +101,7 @@
     "type": "git",
     "url": "git+https://github.com/TianZonglin/hexo-generator-tagsnet.git"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "directories": {
     "lib": "lib"
   },

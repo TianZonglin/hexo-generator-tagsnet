@@ -1,0 +1,112 @@
+{
+  "_from": "hexo-generator-tagsnet",
+  "_inBundle": false,
+  "_integrity": "sha512-EUJlBkvNjT1CWp1rRYRhujFJO+Fp0f/vnDT92gE+/c4B0x79z3GDRWg/YSsw5Exs9vcxxTvxZUOSuAFzBasguQ==",
+  "_location": "/hexo-generator-tagsnet",
+  "_phantomChildren": {
+    "arr-diff": "2.0.0",
+    "arr-flatten": "1.1.0",
+    "array-unique": "0.2.1",
+    "async-each": "1.0.3",
+    "bluebird": "3.7.2",
+    "define-property": "2.0.2",
+    "escape-string-regexp": "1.0.5",
+    "expand-brackets": "0.1.5",
+    "expand-range": "1.8.2",
+    "extend-shallow": "3.0.2",
+    "extglob": "0.3.2",
+    "filename-regex": "2.0.1",
+    "fragment-cache": "0.2.1",
+    "graceful-fs": "4.2.4",
+    "has-ansi": "2.0.0",
+    "hexo-bunyan": "1.0.0",
+    "inherits": "2.0.4",
+    "is-buffer": "1.1.6",
+    "is-extendable": "0.1.1",
+    "kind-of": "3.2.2",
+    "nanomatch": "1.2.13",
+    "object.omit": "2.0.1",
+    "object.pick": "1.3.0",
+    "parse-glob": "3.0.4",
+    "path-is-absolute": "1.0.1",
+    "posix-character-classes": "0.1.1",
+    "preserve": "0.2.0",
+    "readable-stream": "2.3.7",
+    "regex-cache": "0.4.4",
+    "regex-not": "1.0.2",
+    "remove-trailing-separator": "1.1.0",
+    "repeat-element": "1.1.3",
+    "repeat-string": "1.6.1",
+    "snapdragon": "0.8.2",
+    "snapdragon-node": "2.1.1",
+    "split-string": "3.1.0",
+    "sprintf-js": "1.0.3",
+    "to-regex": "3.0.2"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hexo-generator-tagsnet",
+    "name": "hexo-generator-tagsnet",
+    "escapedName": "hexo-generator-tagsnet",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-generator-tagsnet/-/hexo-generator-tagsnet-1.0.1.tgz",
+  "_shasum": "c41768664d7824f9516b174aabb28375d08797af",
+  "_spec": "hexo-generator-tagsnet",
+  "_where": "D:\\123保险柜\\纯净\\pure",
+  "bugs": {
+    "url": "https://github.com/TianZonglin/hexo-generator-tagsnet/issues"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "hexo-fs": "^0.2.2",
+    "hexo-i18n": "^0.2.1",
+    "hexo-log": "^0.2.0",
+    "path": "^0.12.7",
+    "urllib-sync": "^1.0.1",
+    "xmldom": "^0.1.27",
+    "xpath": "^0.0.24"
+  },
+  "deprecated": false,
+  "description": "A plugin for hexo to generate douban reviews from douban.com.",
+  "devDependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^1.10.0",
+    "eslint": "^1.10.3",
+    "eslint-config-hexo": "^1.0.2",
+    "hexo": "^3.2.0",
+    "istanbul": "^0.4.1",
+    "mocha": "^2.0.1"
+  },
+  "homepage": "https://github.com/TianZonglin/hexo-generator-tagsnet#readme.md",
+  "keywords": [
+    "generator",
+    "plugin",
+    "books",
+    "movies",
+    "hexo",
+    "douban"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "name": "hexo-generator-tagsnet",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TianZonglin/hexo-generator-tagsnet.git"
+  },
+  "version": "1.0.3",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}

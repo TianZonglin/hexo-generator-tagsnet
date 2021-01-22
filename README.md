@@ -1,6 +1,5 @@
 # hexo-generator-tagsnet
 
-
 插件实现详见文章：
 
 - [思路](https://www.cz5h.com/article/65a9.html)
@@ -46,3 +45,5 @@ tagsnet:
 ### 示例
 
 https://www.cz5h.com/tagsnet
+
+![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/20210122043907.png)

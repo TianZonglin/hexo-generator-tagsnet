@@ -1,6 +1,6 @@
 {
   "_from": "hexo-generator-tagsnet",
-  "_id": "hexo-generator-tagsnet@1.0.6",
+  "_id": "hexo-generator-tagsnet@1.1.2",
   "_inBundle": false,
   "_integrity": "sha512-EUJlBkvNjT1CWp1rRYRhujFJO+Fp0f/vnDT92gE+/c4B0x79z3GDRWg/YSsw5Exs9vcxxTvxZUOSuAFzBasguQ==",
   "_location": "/hexo-generator-tagsnet",
@@ -103,5 +103,5 @@
     "type": "git",
     "url": "git+https://github.com/TianZonglin/hexo-generator-tagsnet.git"
   },
-  "version": "1.0.6"
+  "version": "1.1.2"
 }

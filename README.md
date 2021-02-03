@@ -26,9 +26,10 @@
 在Hexo根目录 `yaml.config` 追加以下内容，svg参数默认即可。
 
 ```
+//注意是放到根目录配置文件下
 tagsnet:
   title: 文章导航关系网
-  quote: 由标签及分类构建关联。// 本页使用<a target="_blank" href="https://github.com/TianZonglin/hexo-generator-tagsnet">hexo-generator-tagsnet</a>插件构建。<a target="_blank" href="https://www.cz5h.com/tagsnet/">[Demo]</a>
+  quote: 由标签及分类构建关联。// 本页使用<a target="_blank" href="https://www.npmjs.com/package/hexo-generator-tagsnet">hexo-generator-tagsnet</a>插件构建。<a target="_blank" href="https://www.cz5h.com/tagsnet/">[Demo]</a>
   svg:
     svg_big_color: "#ff4081"
     svg_small_color: "#3f51b5"
@@ -36,9 +37,12 @@ tagsnet:
     svg_line_weight: "0.5"
     svg_text_weight: "12px"
     svg_width: "100%"
-    svg_exheight: 50
+    svg_exheight: 20
     svg_bgcolor: "#fff"
     svg_force: "-180"
+  valine: #渲染页面内valine加载不出来时使用
+    app_id: WbLE88qXXXXXXXlzW-gzGzoHsz
+    app_key: ycqjmtXXXXXXXXXX97oRkrdO
 ```
 
 

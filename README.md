@@ -28,6 +28,7 @@
 ```
 //注意是放到根目录配置文件下
 tagsnet:
+  builtin: false #默认即可
   title: 文章导航关系网
   quote: 由标签及分类构建关联。// 本页使用<a target="_blank" href="https://www.npmjs.com/package/hexo-generator-tagsnet">hexo-generator-tagsnet</a>插件构建。<a target="_blank" href="https://www.cz5h.com/tagsnet/">[Demo]</a>
   svg:

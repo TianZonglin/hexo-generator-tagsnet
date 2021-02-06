@@ -1,5 +1,10 @@
 # hexo-generator-tagsnet
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/TianZonglin/hexo-generator-tagsnet) 
+![npm dev dependency version](https://img.shields.io/npm/dependency-version/hexo-generator-tagsnet/dev/hexo)
+![GitHub issues](https://img.shields.io/github/issues-raw/TianZonglin/hexo-generator-tagsnet)
+![npm](https://img.shields.io/npm/dt/hexo-generator-tagsnet)
+
 插件实现详见文章：
 
 - [思路](https://www.cz5h.com/article/65a9.html)
@@ -57,3 +62,7 @@ https://www.cz5h.com/tagsnet
 ### 各主题测试
 
 详见 [test.md](https://github.com/TianZonglin/hexo-generator-tagsnet/blob/main/test.md)
+
+### 更新
+
+1.1.7 修复主题适配bug，Stable版本。

@@ -51,4 +51,9 @@ tagsnet:
 
 https://www.cz5h.com/tagsnet
 
-![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/20210122043907.png)
+![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/20210206005600.png)
+
+
+### 各主题测试
+
+详见 [test.md](https://github.com/TianZonglin/hexo-generator-tagsnet/blob/main/test.md)

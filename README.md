@@ -1,9 +1,10 @@
 # hexo-generator-tagsnet
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/TianZonglin/hexo-generator-tagsnet) 
-![npm dev dependency version](https://img.shields.io/npm/dependency-version/hexo-generator-tagsnet/dev/hexo)
-![GitHub issues](https://img.shields.io/github/issues-raw/TianZonglin/hexo-generator-tagsnet)
-![npm](https://img.shields.io/npm/dt/hexo-generator-tagsnet)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/TianZonglin/hexo-generator-tagsnet)](https://www.npmjs.com/package/hexo-generator-tagsnet)
+[![npm dev dependency version](https://img.shields.io/npm/dependency-version/hexo-generator-tagsnet/dev/hexo)](https://www.npmjs.com/package/hexo-generator-tagsnet)
+[![GitHub issues](https://img.shields.io/github/issues-raw/TianZonglin/hexo-generator-tagsnet)](https://github.com/TianZonglin/hexo-generator-tagsnet/issues)
+[![npm](https://img.shields.io/npm/dt/hexo-generator-tagsnet)](https://www.npmjs.com/package/hexo-generator-tagsnet)
+[![NPM](https://img.shields.io/npm/l/hexo-generator-tagsnet)](https://github.com/TianZonglin/hexo-generator-tagsnet/blob/main/LICENSE)
 
 插件实现详见文章：
 

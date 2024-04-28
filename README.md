@@ -8,8 +8,8 @@
 
 插件实现详见文章：
 
-- [思路](https://www.cz5h.com/article/65a9.html)
-- [实现](https://www.cz5h.com/article/99a8.html)
+- [思路](https://www.cxmoe.com/article/65a9.html)
+- [实现](https://www.cxmoe.com/article/99a8.html)
 
 ### 使用
 
@@ -55,7 +55,7 @@ tagsnet:
 
 ### 示例
 
-https://www.cz5h.com/tagsnet
+https://www.cxmoe.com/tagsnet
 
 ![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/20210206005600.png)
 
